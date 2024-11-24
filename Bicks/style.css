@@ -1,0 +1,10 @@
+.icon{
+    font-size: 30px;
+    margin: 0 10px;
+    cursor: pointer;
+}
+
+.icon:hover{
+    color: rgb(246, 9, 9);
+    transform: scale(1.2);
+}
